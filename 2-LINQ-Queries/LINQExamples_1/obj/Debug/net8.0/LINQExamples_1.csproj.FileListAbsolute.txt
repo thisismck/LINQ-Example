@@ -1,0 +1,15 @@
+C:\Users\mkasapoglu\source\repos\LINQ-Example\2-LINQ-Queries\LINQExamples_1\bin\Debug\net8.0\LINQExamples_1.exe
+C:\Users\mkasapoglu\source\repos\LINQ-Example\2-LINQ-Queries\LINQExamples_1\bin\Debug\net8.0\LINQExamples_1.deps.json
+C:\Users\mkasapoglu\source\repos\LINQ-Example\2-LINQ-Queries\LINQExamples_1\bin\Debug\net8.0\LINQExamples_1.runtimeconfig.json
+C:\Users\mkasapoglu\source\repos\LINQ-Example\2-LINQ-Queries\LINQExamples_1\bin\Debug\net8.0\LINQExamples_1.dll
+C:\Users\mkasapoglu\source\repos\LINQ-Example\2-LINQ-Queries\LINQExamples_1\bin\Debug\net8.0\LINQExamples_1.pdb
+C:\Users\mkasapoglu\source\repos\LINQ-Example\2-LINQ-Queries\LINQExamples_1\obj\Debug\net8.0\LINQExamples_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkasapoglu\source\repos\LINQ-Example\2-LINQ-Queries\LINQExamples_1\obj\Debug\net8.0\LINQExamples_1.AssemblyInfoInputs.cache
+C:\Users\mkasapoglu\source\repos\LINQ-Example\2-LINQ-Queries\LINQExamples_1\obj\Debug\net8.0\LINQExamples_1.AssemblyInfo.cs
+C:\Users\mkasapoglu\source\repos\LINQ-Example\2-LINQ-Queries\LINQExamples_1\obj\Debug\net8.0\LINQExamples_1.csproj.CoreCompileInputs.cache
+C:\Users\mkasapoglu\source\repos\LINQ-Example\2-LINQ-Queries\LINQExamples_1\obj\Debug\net8.0\LINQExamples_1.sourcelink.json
+C:\Users\mkasapoglu\source\repos\LINQ-Example\2-LINQ-Queries\LINQExamples_1\obj\Debug\net8.0\LINQExamples_1.dll
+C:\Users\mkasapoglu\source\repos\LINQ-Example\2-LINQ-Queries\LINQExamples_1\obj\Debug\net8.0\refint\LINQExamples_1.dll
+C:\Users\mkasapoglu\source\repos\LINQ-Example\2-LINQ-Queries\LINQExamples_1\obj\Debug\net8.0\LINQExamples_1.pdb
+C:\Users\mkasapoglu\source\repos\LINQ-Example\2-LINQ-Queries\LINQExamples_1\obj\Debug\net8.0\LINQExamples_1.genruntimeconfig.cache
+C:\Users\mkasapoglu\source\repos\LINQ-Example\2-LINQ-Queries\LINQExamples_1\obj\Debug\net8.0\ref\LINQExamples_1.dll

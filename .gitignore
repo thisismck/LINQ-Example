@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/4-LINQ-More-Operators/.vs/4-LINQ-More-Operators
+/4-LINQ-More-Operators/bin/Debug/net8.0
+/4-LINQ-More-Operators/obj
